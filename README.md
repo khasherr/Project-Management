@@ -1,5 +1,5 @@
 # Project-Management
 Java Spring project. 
 
-##Java Spring Framework, Hibernate, postgreSQL, Spring JPA, Security, Lombok
+This is independent project that I did for my Java Spring Framework course. Made with Java Spring, Hibernate, Entity Relationships, postgreSQL, Spring JPA, Security, REST, Lombok, Thymleaf, Bootstrap and other dependencies.
 
